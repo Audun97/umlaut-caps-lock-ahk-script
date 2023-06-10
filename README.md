@@ -1,0 +1,1 @@
+# umlaut-capslock-ahk-script
