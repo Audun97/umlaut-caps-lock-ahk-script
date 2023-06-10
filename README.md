@@ -1,6 +1,6 @@
 # Umlaut Caps Lock AHK Script
 ## What it does
-Turns caps lock into a new modifier key for typing German Umlaut letters like ö, ü and ä. Advantagous on a keyboard with american layout.
+Turns caps lock into a new modifier key for typing German Umlaut letters like ö, ü and ä. Advantagous on a keyboard with American layout.
 ## How to use
 If you want it to launch on start up you can simply copy/paste it to the Startup folder. To find you Startup folder follow these steps:
 1. Press Win + R to open the Run dialog.
